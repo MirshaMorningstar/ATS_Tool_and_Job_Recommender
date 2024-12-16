@@ -1,0 +1,226 @@
+{
+    "personal_information": {
+        "full_name": "Lisa King, M.D.",
+        "contact_info": {
+            "email": "lisarking@gmail.com",
+            "phone_number": "714-330-6341",
+            "linkedin_url": "linkedin.com/in/lisazking"
+        }
+    },
+    "summary": {
+        "summary": "Responsible physician with 9 years of experience maximizing patient wellness and facility profitability. Seeking to deliver healthcare excellence at Mercy Hospital.",
+        "preferred_job_title": "Physician, Internal Medicine"
+    },
+    "skills_and_proficiencies": {
+        "skills": {
+            "hard_skills": "Patient care, Diagnosis, Treatment, Internal Medicine, Lean medical principles, Cost reduction, Communication, Networking",
+            "soft_skills": "Personalized service, Effective communication, Collaboration, Problem-solving, Leadership",
+            "top5_varied_domained_hard_skills": "Internal Medicine, Patient Care, Cost Reduction, Communication, Networking"
+        },
+        "certifications": "Board certified. Medical Board of California (2019)",
+        "spoken_languages": null,
+        "programming_languages": null,
+        "tech_stack_with_ratings": null
+    },
+    "professional_experience": {
+        "total_experience_years": 9,
+        "work_experience": [
+            {
+                "job_title": "Physician, Internal Medicine",
+                "company_name": "Concord Regional Medical Center, Concord, CA",
+                "duration": "October 2015 - January 2020",
+                "achievements": "Maintained 5-star Healthgrades score for 112 reviews and 85% patient success. Contributed to 20% boost in HCAHPS scores. Facilitated 15% reduction in costs for supplies and staffing. Maintained 85% success rate for patient goal attainment. Collaborated with administrative staff and nurses to reduce hours spent on paperwork by 5 hours per week.",
+                "skills_used": "Patient care, Internal Medicine, Communication, Cost reduction, Collaboration",
+                "technologies_involved": null
+            },
+            {
+                "job_title": "Physician, Internal Medicine",
+                "company_name": "San Jose Hospital, CA",
+                "duration": "May 2011 - September 2015",
+                "achievements": "Achieved 22% reduction in surgeries. Increased referrals by 17%. Helped raise reimbursements by $550,000 per year.",
+                "skills_used": "Patient care, Internal Medicine, Communication, Networking, Cost reduction",
+                "technologies_involved": null
+            }
+        ],
+        "internship_experience": []
+    },
+    "project_experience": {
+        "projects": [],
+        "projects_experience_extract_tech_stack": null
+    },
+    "education": [
+        {
+            "degree": "Doctor of Medicine",
+            "institution": "Loma Linda University, CA",
+            "honors": null,
+            "relevant_coursework": null,
+            "gpa": null,
+            "major_subjects": null,
+            "certifications": null,
+            "online_courses": null
+        },
+        {
+            "degree": "BS in Biology",
+            "institution": "University of California-Davis",
+            "honors": null,
+            "relevant_coursework": null,
+            "gpa": null,
+            "major_subjects": null,
+            "certifications": null,
+            "online_courses": null
+        }
+    ],
+    "awards_and_accomplishments": [],
+    "Resume_Category_1": "HEALTHCARE",
+    "Resume_Category_1_Match_Score": 98,
+    "Resume_Category_2": "Health and fitness",
+    "Resume_Category_2_Match_Score": 95,
+    "analytics_and_scoring": {
+        "overall_resume_score": 8.5,
+        "impact": {
+            "word_effectiveness": 8.0,
+            "word_repetition": 7.0,
+            "quantifiers_usage": 9.0,
+            "action_verbs": 8.5,
+            "verb_sentences": 7.5,
+            "accomplishment_oriented_language": 9.0,
+            "spell_check": 10.0
+        },
+        "brevity": {
+            "length_and_depth": 7.0,
+            "use_of_bullets": 8.0,
+            "bullets_length": 7.5,
+            "filler_words": 8.0,
+            "page_density": 7.0
+        },
+        "style": {
+            "buzz_words": 7.0,
+            "dates_consistency": 9.0,
+            "contact_and_personal_details": 9.0,
+            "readability": 8.0,
+            "personal_pronouns": 6.0,
+            "active_voice": 8.5,
+            "consistency": 9.0
+        },
+        "sections_analysis": {
+            "summary_presence": 10.0,
+            "education_presence": 9.0,
+            "skills_presence": 8.0,
+            "soft_skills_presence": 7.0,
+            "hard_skills_presence": 8.5,
+            "unnecessary_sections": 10.0
+        },
+        "job_titles_based_on_resume_keywords": 9.0,
+        "experience_impact_rating": 9.0,
+        "education_experience_alignment": 9.0,
+        "project_effectiveness": null,
+        "skill_scoring_and_rating": 8.0,
+        "problem_solving_skills": 8.5,
+        "leadership_potential": 7.5,
+        "teamwork_and_collaboration": 9.0,
+        "keyword_analysis": 8.0,
+        "readability_improvement": {
+            "clarity": 8.0,
+            "organization": 8.5,
+            "conciseness": 7.0
+        }
+    },
+    "recommendations": {
+        "career_and_job": {
+            "job_role_suggestions": [
+                {
+                    "suggested_role": "Chief Medical Officer",
+                    "reason_for_match": "Extensive experience and leadership demonstrated"
+                },
+                {
+                    "suggested_role": "Medical Director",
+                    "reason_for_match": "Proven track record in improving patient outcomes and cost efficiency"
+                },
+                {
+                    "suggested_role": "Hospital Administrator",
+                    "reason_for_match": "Experience in collaborating with administration and improving operational efficiency"
+                }
+            ],
+            "career_advancement_recommendations": [
+                {
+                    "industry": "Healthcare Administration",
+                    "recommended_roles": [
+                        "Hospital Administrator",
+                        "Medical Director",
+                        "Chief Medical Officer"
+                    ]
+                },
+                {
+                    "industry": "Healthcare Consulting",
+                    "recommended_roles": [
+                        "Management Consultant",
+                        "Healthcare Consultant"
+                    ]
+                },
+                {
+                    "industry": "Pharmaceutical Industry",
+                    "recommended_roles": [
+                        "Medical Affairs Director",
+                        "Clinical Research Manager"
+                    ]
+                }
+            ]
+        },
+        "skill_gap": {
+            "missing_skills": [
+                {
+                    "skill": "Data Analytics",
+                    "relevance_to_job": "Enhance decision-making with data-driven insights"
+                },
+                {
+                    "skill": "Healthcare Informatics",
+                    "relevance_to_job": "Improve efficiency and communication through technology"
+                },
+                {
+                    "skill": "Project Management",
+                    "relevance_to_job": "Lead and manage larger-scale healthcare initiatives"
+                }
+            ],
+            "recommended_training_programs": [
+                {
+                    "program": "Healthcare Data Analytics Certificate",
+                    "skill_targeted": "Data Analytics"
+                },
+                {
+                    "program": "Epic or Cerner Systems Training",
+                    "skill_targeted": "Healthcare Informatics"
+                },
+                {
+                    "program": "Project Management Professional (PMP) Certification",
+                    "skill_targeted": "Project Management"
+                }
+            ]
+        },
+        "comapany_fit_analysis": {
+            "company_fit_score": null,
+            "detailed_fit_breakdown": null
+        },
+        "specific_job_match": {
+            "overall_match_score": null,
+            "top_matching_skills": null,
+            "top_mismatched_areas": null
+        },
+        "keyword_analysis": {
+            "missing_keywords": [
+                {
+                    "keyword": "Leadership skills",
+                    "suggestion_for_improvement": "Highlight specific instances of leadership"
+                },
+                {
+                    "keyword": "Teamwork",
+                    "suggestion_for_improvement": "Add more quantifiable results from teamwork"
+                },
+                {
+                    "keyword": "Quality Improvement",
+                    "suggestion_for_improvement": "Emphasize contributions to improving quality of care"
+                }
+            ]
+        }
+    },
+    "extra_suggestions": ""
+}
